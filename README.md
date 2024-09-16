@@ -16,19 +16,19 @@ Customer reviews tells us about the reviews given by the customers for a food in
 
 ### Visualization and EDA of different attributes:
 
-<img alt="length_of_review" src="./Images/Number_of_characters_in_each_review.png">
+<img alt="length_of_review" src="./images/Number_of_characters_in_each_review.png">
 
-<img alt="barchart" src="./Images/barchart.png">
+<img alt="barchart" src="./images/barchart.png">
 
-<img alt="piechart" src="./Images/piechart.png">
+<img alt="piechart" src="./images/piechart.png">
 
 **Positive Review WordCloud**
 
-<img alt="wordcloud" src="./Images/wordcloud_positive.png">
+<img alt="wordcloud" src="./images/wordcloud_positive.png">
 
 **Negative Review WordCloud**
 
-<img alt="wordcloud" src="./Images/negative_wordcloud.png">
+<img alt="wordcloud" src="./images/negative_wordcloud.png">
 
 **NLP TECHNIQUES USED**
 
